@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏛️ Anubis Sovereign Portfolio - V12.0
 
-## Getting Started
+<p align="center">
+  <strong>Elite Software Engineering & Surgical Intelligence OS</strong>
+</p>
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🇧🇷 Português
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🚀 Visão Geral
+Este não é apenas um portfólio; é o ecossistema oficial da **Anubis Tech**. Uma aplicação de alta fidelidade desenvolvida em **Next.js 15**, focada em demonstrar a resolução de **Bottlenecks** (gargalos) complexos em setores críticos como saúde, indústria e gestão preditiva.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 🛠️ Diferenciais Técnicos
+* **3D Sovereign UI**: Interface imersiva com carrossel 3D rotativo e sistema de *flip* para auditoria técnica.
+* **Surgical Intelligence**: Integração conceitual com **Gemini 3** para processamento de dados clínicos.
+* **High-Performance Rendering**: Uso de **Framer Motion** e aceleração por GPU para 60 FPS constantes.
+* **Scroll Snapping**: Navegação seccionada de elite para máxima retenção de atenção.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 🧬 Stack Tecnológica
+* **Frontend**: Next.js 15 (App Router), React, Tailwind CSS.
+* **Animações**: Framer Motion, Three.js (Canvas Particles).
+* **Linguagem**: TypeScript (Strict Mode).
+* **Deployment**: Vercel (CI/CD).
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🇺🇸 English
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 🚀 Overview
+This is more than a portfolio; it is the official **Anubis Tech** ecosystem. A high-fidelity application built with **Next.js 15**, designed to showcase the resolution of complex **Bottlenecks** in critical sectors such as healthcare, industry, and predictive management.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 🛠️ Technical Highlights
+* **3D Sovereign UI**: Immersive interface featuring a 3D rotating carousel and a flip system for technical auditing.
+* **Surgical Intelligence**: Conceptual integration with **Gemini 3** for clinical data processing.
+* **High-Performance Rendering**: Powered by **Framer Motion** and GPU acceleration for a constant 60 FPS experience.
+* **Scroll Snapping**: Sectioned elite navigation for maximum user retention.
 
-## Deploy on Vercel
+### 🧬 Tech Stack
+* **Frontend**: Next.js 15 (App Router), React, Tailwind CSS.
+* **Animations**: Framer Motion, Three.js (Canvas Particles).
+* **Language**: TypeScript (Strict Mode).
+* **Deployment**: Vercel (CI/CD).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 👨‍💻 Author / Autor
+**Fernando - CEO & Lead Engineer at Anubis Tech**
+> "Transforming complex bottlenecks into sovereign code."
+
+---
+
+## 🧠 Vocabulário Técnico (Technical Vocabulary)
+* **High-Fidelity (Alta Fidelidade)**: Interfaces que se aproximam da perfeição visual e funcional.
+* **Sovereign Code (Código Soberano)**: Software que domina o problema que se propõe a resolver sem dependências frágeis.
+* **App Router**: O paradigma moderno de roteamento do Next.js focado em performance e SEO.
